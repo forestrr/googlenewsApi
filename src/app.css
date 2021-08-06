@@ -1,0 +1,9 @@
+news-dec
+{
+    height: 200px;
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    cursor: pointer;
+}
